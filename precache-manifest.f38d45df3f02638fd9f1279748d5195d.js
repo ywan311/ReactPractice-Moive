@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/ReactPractice-Moive/static/js/runtime~main.ac78312a.js"
   },
   {
-    "revision": "43c9c7757399cd051566",
-    "url": "/ReactPractice-Moive/static/js/main.404f6384.chunk.js"
+    "revision": "c1297a34f0d9f47028b4",
+    "url": "/ReactPractice-Moive/static/js/main.c01539d9.chunk.js"
   },
   {
     "revision": "a35ee8e669eeb51c0deb",
     "url": "/ReactPractice-Moive/static/js/2.639102df.chunk.js"
   },
   {
-    "revision": "43c9c7757399cd051566",
+    "revision": "c1297a34f0d9f47028b4",
     "url": "/ReactPractice-Moive/static/css/main.00ebf73a.chunk.css"
   },
   {
-    "revision": "d9eb00e208bbf35811ededaaf8cfe4d7",
+    "revision": "7709247b237134b451cddef47130938b",
     "url": "/ReactPractice-Moive/index.html"
   }
 ];
